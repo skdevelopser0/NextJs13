@@ -5,7 +5,7 @@ export default function page() {
 
     return (
         <>
-            <div>This is my home page</div>
+            <div>This is my home page1</div>
         </>
     )
 }
